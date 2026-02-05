@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Data / state
+*.pickle
+last_notified.csv
