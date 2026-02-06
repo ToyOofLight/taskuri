@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+Pillow
+supabase
+opencv-python-headless
